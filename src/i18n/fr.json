@@ -1,0 +1,60 @@
+{
+  "Header": {
+    "searchPlaceholder": "Rechercher un produit…",
+    "wishlist": "Ma liste d’envies",
+    "logout": "Se déconnecter",
+    "welcome": "Bienvenue,"
+  },
+  "Common": {
+    "continueShopping": "Continuer mes achats",
+    "products": "Produits"
+  },
+  "Store": {
+    "noProduct": "Aucun produit",
+    "filterCharge": "Chargement des filtres…",
+    "products": "Produits"
+  },
+  "FilterSection": {
+    "all": "Tous",
+    "clearAll": "Effacer tout",
+    "Filters": "Filtres",
+    "Category": "Categories",
+    "SortBy": "Trier par",
+    "PriceRange": "Gamme de prix",
+    "Rating": "Note",
+    "Availability":"Disponibilité",
+    "priceHighToLow": "Prix ​​du plus élevé au plus bas",
+    "priceLowToHigh": "Prix ​​du plus bas au plus élevé",
+    "inStock": "En stock",
+    "outOfStock": "En rupture de stock"
+  },
+  "Home": {
+    "NEWARRIVALS":"NOUVEAUX ARRIVANTS",
+    "Shopnow": "Achetez",
+    "discover": "Découvrez la collection printemps",
+    "Loading": "Chargement..."
+  },
+  "Product": {
+    "Specialprice": "Prix exclusif",
+    "itemleft": "articles disponibles",
+    "Size": "Taille"
+  },
+  "Cart": {
+    "CartSummary":"Panier",
+    "Totalamount": "Montant total",
+    "Checkout": "Payer",
+    "LogintoCheckout": "Se connecter pour payer",
+    "Loadingcart": "Chargement du panier..."
+  },
+   "PaymentStatus": {
+    "Loading": "Chargement...",
+    "Paymentvalidated": "Paiement validé"
+  },
+  "Checkout": {
+    "Loadingcheckout":"Chargement du paiement..."
+  },
+  "Store": {
+    "Loading": "Chargement...",
+    "noProduct": "Pas de produits"
+  }
+}
