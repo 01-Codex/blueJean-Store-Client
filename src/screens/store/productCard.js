@@ -52,6 +52,7 @@ const ProductCard = ({ product }) => {
             width={800}
             height={400}
             sizes="100vw"
+            unoptimized
           />
         </Link>
 
