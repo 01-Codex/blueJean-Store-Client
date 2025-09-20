@@ -4,8 +4,6 @@ This project is inspired by the course Mastering NextJS with Interview Questions
 # BlueJean Store Client
 
 [![Live Demo](https://img.shields.io/badge/demo-live-blue)](https://blue-jean-store-client.vercel.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Tech Stack](https://img.shields.io/badge/stack-Next.js%20%7C%20Tailwind%20CSS%20%7C%20React-blue)](https://nextjs.org/)
 
 ---
 
